@@ -1,0 +1,14 @@
+C:\Users\Noma\source\repos\Autoglass.Domain\bin\Debug\net7.0\Autoglass.Domain.exe
+C:\Users\Noma\source\repos\Autoglass.Domain\bin\Debug\net7.0\Autoglass.Domain.deps.json
+C:\Users\Noma\source\repos\Autoglass.Domain\bin\Debug\net7.0\Autoglass.Domain.runtimeconfig.json
+C:\Users\Noma\source\repos\Autoglass.Domain\bin\Debug\net7.0\Autoglass.Domain.dll
+C:\Users\Noma\source\repos\Autoglass.Domain\bin\Debug\net7.0\Autoglass.Domain.pdb
+C:\Users\Noma\source\repos\Autoglass.Domain\obj\Debug\net7.0\Autoglass.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noma\source\repos\Autoglass.Domain\obj\Debug\net7.0\Autoglass.Domain.AssemblyInfoInputs.cache
+C:\Users\Noma\source\repos\Autoglass.Domain\obj\Debug\net7.0\Autoglass.Domain.AssemblyInfo.cs
+C:\Users\Noma\source\repos\Autoglass.Domain\obj\Debug\net7.0\Autoglass.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Noma\source\repos\Autoglass.Domain\obj\Debug\net7.0\Autoglass.Domain.dll
+C:\Users\Noma\source\repos\Autoglass.Domain\obj\Debug\net7.0\refint\Autoglass.Domain.dll
+C:\Users\Noma\source\repos\Autoglass.Domain\obj\Debug\net7.0\Autoglass.Domain.pdb
+C:\Users\Noma\source\repos\Autoglass.Domain\obj\Debug\net7.0\Autoglass.Domain.genruntimeconfig.cache
+C:\Users\Noma\source\repos\Autoglass.Domain\obj\Debug\net7.0\ref\Autoglass.Domain.dll

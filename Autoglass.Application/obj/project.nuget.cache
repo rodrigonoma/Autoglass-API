@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2CwNuJsVnU9lTDsicNzsFG74xi7uEiTgIG5vD4sxgiuRZ2LmWFIa7NzhN+pvmnA4tzroZOQNZaTwdQWjouJhFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Noma\\source\\repos\\Autoglass.Application\\Autoglass.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Noma\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Noma\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
